@@ -1,4 +1,7 @@
-# 🏋️ Fitness - Assistente de Saúde no Terminal
+# 🏋️ Fitnes - Assistente de Saúde no Terminal
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow?style=for-the-badge)
 
 Aplicação desenvolvida em **Java** que funciona como um assistente interativo de saúde, nutrição e desempenho físico diretamente no terminal.
 
@@ -11,6 +14,12 @@ O sistema permite calcular métricas corporais essenciais e acompanhar dados imp
 Este projeto vai além de uma simples calculadora.
 
 Ele foi pensado como um **sistema interativo**, onde o usuário navega por menus e realiza diferentes cálculos relacionados à saúde, com os dados sendo armazenados durante a execução para gerar um **resumo completo no final**.
+
+---
+
+## 📸 Exemplo de execução
+
+![Preview do sistema](./assets/preview.png)
 
 ---
 
@@ -74,8 +83,6 @@ O sistema armazena os dados durante o uso e exibe:
 
 ## 🖥️ Interface
 
-O sistema funciona via terminal com um menu interativo:
-
 ```
 |===============MENU================|
 1 - Calcular IMC
@@ -99,7 +106,7 @@ O sistema funciona via terminal com um menu interativo:
 
 ### 1. Clone o repositório
 ```bash
-git clone https://github.com/seu-usuario/fitness-calculator-java.git
+git clone https://github.com/SEU-USUARIO/fitness-calculator-java.git
 ```
 
 ### 2. Acesse a pasta
@@ -150,9 +157,19 @@ Este projeto foi desenvolvido com foco em:
 
 ---
 
+## 💡 Possível aplicação real
+
+Este sistema pode evoluir para:
+
+- Aplicação mobile de acompanhamento físico  
+- Sistema web com login de usuários  
+- Integração com academias ou personal trainers  
+
+---
+
 ## 👨‍💻 Autor
 
-João Victor  
+Victor Omena
 
 ---
 
