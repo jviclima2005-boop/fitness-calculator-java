@@ -19,7 +19,7 @@ Ele foi pensado como um **sistema interativo**, onde o usuário navega por menus
 
 ## 📸 Exemplo de execução
 
-![Preview do sistema](./main/preview.png)
+![Preview do sistema](./preview.png)
 
 ---
 
